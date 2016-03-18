@@ -1,0 +1,24 @@
+{
+  "name": "spotify_api",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "polina nenchev and alissa paluska"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0"
+  }
+}
