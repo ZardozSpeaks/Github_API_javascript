@@ -1,52 +1,33 @@
-# Title
+# _Github User Repository Search_
 
-#### By Author/s
+#### _A single page Node.js app with Github API integration, March 18, 2016_
+
+#### By _**David Remington**_
 
 ## Description
 
+_This app searches the github api and returns information on the inputted user's repositories and links to them so that they can be easily cloned or forked_
 
+## Setup/Installation Requirements
 
-## Prerequisites
+* _Clone this repository to your local machine_
+* _Navigate to the root file of the project_
+* _Open index.html in your browser of choice_
 
-You will need the following things properly installed on your computer.
+## Known Bugs
 
-* [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with npm)
-* [Bower](http://bower.io/)
+_No known bugs_
 
-## Installation
+## Support and contact details
 
-* `git clone <repository-url>` this repository
-* change into the new directory
-* `npm install`
-* `bower install`
+_Contact me through GitHub at user ZardozSpeaks if you have any issues_
 
-## Running / Development
+## Technologies Used
 
-* `gulp serve`
-* Visit your app at [http://localhost:3000](http://localhost:3000).
+_Node.js, Gulp, Bower, SASS. JShint for QA_
 
+### Licence
 
-### Legal
+*Available under the MIT license*
 
-Copyright (c) 2016 **Author/s**
-
-This software is licensed under the MIT license.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+Copyright (c) 2016 **_David Remington_**

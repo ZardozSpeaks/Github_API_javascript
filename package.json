@@ -1,12 +1,12 @@
 {
-  "name": "folder-name",
+  "name": "github_api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "david remington",
   "license": "ISC",
   "devDependencies": {
     "bower-files": "^3.11.3",
