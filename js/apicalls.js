@@ -1,3 +1,10 @@
+/*This app currently requires the use of an API key to function. To create a key, visit the Settings area of your Github account, select Personal Access Tokens from the sidebar and choose "generate new token".
+
+Store the token in a file titled ".env" in the root file of this project directory. Include the following code in the file with your token info between the quotation marks:
+
+exports.apiKey = "";
+*/
+
 var apiKey = require('./../.env').apiKey;
 
   exports.findUser = function(userName){
