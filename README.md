@@ -11,12 +11,18 @@ _This app searches the github api and returns information on the inputted user's
 ## Setup/Installation Requirements
 
 * _Clone this repository to your local machine_
-* _Navigate to the root file of the project_
-* _Open index.html in your browser of choice_
+* _Be sure that you have node.js installed following the instructions  at https://nodejs.org/en/ ._
+* _Be sure that you have bower installed by typing "npm install bower -g" in your terminal_
+* _Be sure that you have gulp installed by typing "npm install gulp -g" in your terminal_
+* _Navigate to the root file of the project in terminal_
+* _Run "npm install"_
+* _Run "bower install"_
+* _Run "gulp build"_
+* _Run "gulp serve", the site should now be running in your prefered browser_
 
 ## Known Bugs
 
-_No known bugs_
+_In its current iteration this app requires the use of an API key, please follow the instructions contained in the comments of the apicalls.js file to obtain one_
 
 ## Support and contact details
 

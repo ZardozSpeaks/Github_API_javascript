@@ -1,18 +1,15 @@
 {
   "name": "github_api",
   "description": "",
-  "main": "",
+  "main": "index.html",
   "authors": [
     "david remington"
   ],
   "license": "ISC",
+  "homepage": "https://github.com/ZardozSpeaks/Github_api_javascript",
   "moduleType": [],
-  "homepage": "index.html",
-  "private": true,
-  "ignore": [
-  ],
   "dependencies": {
-    "jquery": "^2.2.1",
     "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
   }
 }
